@@ -1,8 +1,8 @@
-from quicksortrecursive import QuickSortRecursive
+from quicksort import QuickSort
 
 if __name__ == "__main__":
-    sorter = QuickSortRecursive()
+    sorter = QuickSort()
     a = [1, 0, 2, 4]
     print a
-    sorter.quicksort(a, 0, len(a)-1)
+    sorter.iterative(a, 0, len(a)-1)
     print a
