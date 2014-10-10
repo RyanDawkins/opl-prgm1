@@ -1,3 +1,7 @@
+# Ryan Dawkins
+# October 9th, 2014
+# Programming Assignment 1
+
 import os
 import sys
 from storage import Storage
@@ -39,6 +43,7 @@ class Console(Storage):
         # about the left or right spacing.
         command.strip()
 
+        # I think this is self documenting, but it interprets the commands given
         if command == "clear":
             self.clear()
         elif command == "exit":

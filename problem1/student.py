@@ -1,3 +1,7 @@
+# Ryan Dawkins
+# October 9th, 2014
+# Programming Assignment 1
+
 # Base student class for storing information
 class Student:
     def __init__(self):

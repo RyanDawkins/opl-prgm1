@@ -1,3 +1,7 @@
+# Ryan Dawkins
+# October 9th, 2014
+# Programming Assignment 1
+
 # This class is abstracted for later implementation
 class Storage(object):
     # We are forcing the implementation of these methods so that we can

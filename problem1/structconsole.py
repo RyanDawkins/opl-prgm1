@@ -1,3 +1,7 @@
+# Ryan Dawkins
+# October 9th, 2014
+# Programming Assignment 1
+
 from console import Console
 from student import Student
 
